@@ -45,7 +45,8 @@ In this analysis we will focus on the quality of a output from a production line
 
 ### Step 1: Choosing a dataset for analysis
 Two datasets that I found useful for analysis are
-1) https://www.kaggle.com/alexkaggle95/production-quality-prediction-mae-6-954/#data
+1) https://www.kaggle.com/alexkaggle95/production-quality-prediction-mae-6-954
+This Dataset has the final output paramater as an integer quality score ()
 2) https://www.kaggle.com/paresh2047/uci-semcom
 
 
@@ -59,6 +60,7 @@ Two datasets that I found useful for analysis are
 | 4 | Presenting results | [Good GitHub Link](https://github.com/liamculligan/bosch-production-line-performance) | 
 | 5 | Kaggle-Dataset | [Versatile Production System - Data for condition monitoring, predictive maintenance, machine learning](https://www.kaggle.com/inIT-OWL/versatileproductionsystem) | 
 | 6 | Kaggle-Dataset | [Bosch Production Line Performance - Reduce manufacturing failures](https://www.kaggle.com/c/bosch-production-line-performance/overview) | 
+| 6.1 | Kaggle-Dataset | [Mercedes-Benz Greener Manufacturing - Can you cut the time a Mercedes-Benz spends on the test bench?](https://www.kaggle.com/c/mercedes-benz-greener-manufacturing) |
 | 7 | Article | [Quality Prediction and Yield Improvement in Process Manufacturing Based on Data Analytics](https://www.mdpi.com/2227-9717/8/9/1068/htm) | 
 | 8 | Article | [A Robust Machine Vision Algorithm Development for Quality Parameters Extraction of Circular Biscuits and Cookies Digital Images](https://www.hindawi.com/journals/jfp/2014/376360/) | 
 | 9 | Article | [Automatic Defect Classification on a Production Line](https://link.springer.com/article/10.1007/s40903-015-0018-5) |
@@ -70,3 +72,4 @@ Two datasets that I found useful for analysis are
 | 15 | Kaggle-Dataset | [Defect Detection-The 14th 1056Lab Data Analytics Competition](https://www.kaggle.com/c/1056lab-defect-detection/data) |
 | 16 | Kaggle-Workbook/Dataset | [100% Casting Quality Acc with Human+AI Strategy](https://www.kaggle.com/afrniomelo/100-casting-quality-acc-with-human-ai-strategy) |
 
+---
