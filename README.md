@@ -53,21 +53,21 @@ Two datasets that I found useful for analysis are
 
 | # | Category | Description | URL |
 | --- | --- | --- | --- |
-| 1 | ML Application | ML applications in production lines: A systematic literature review  | https://www.sciencedirect.com/science/article/pii/S036083522030485X  | 
-| 2 | Bakery Process | Bakery Process | https://www.winspc.com/wp-content/uploads/2018/06/Quality-on-the-Rise-in-Bakery-Manufacturing.pdf | 
-| | Presenting results | Intel- Whitepaper | https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/increase-product-yield-and-quality-with-machine-learning-paper.pdf | 
+| 1 | Article | ML applications in production lines: A systematic literature review  | https://www.sciencedirect.com/science/article/pii/S036083522030485X  | 
+| 2 | Article | Bakery Process | https://www.winspc.com/wp-content/uploads/2018/06/Quality-on-the-Rise-in-Bakery-Manufacturing.pdf | 
+| | Whitepaper | Intel- Increase product yield and quality with ML | https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/increase-product-yield-and-quality-with-machine-learning-paper.pdf | 
 | | Presenting results | GitHub | https://github.com/liamculligan/bosch-production-line-performance | 
 | | Dataset | Focusing on machine maintenance | https://www.kaggle.com/inIT-OWL/versatileproductionsystem | 
 | | Dataset | Bosch on Kaggle | https://www.kaggle.com/c/bosch-production-line-performance/overview | 
-| | Data Analysis in Manufacturing | Quality Prediction and Yield Improvement in Process Manufacturing Based on Data Analytics | https://www.mdpi.com/2227-9717/8/9/1068/htm | 
-| | ML for quality detection | using Images of products |  https://www.hindawi.com/journals/jfp/2014/376360/ | 
-| | ML for auto quality detection | using image detection | https://link.springer.com/article/10.1007/s40903-015-0018-5 |
-| | Quality assessment of butter cookies applying multispectral imaging | using image detection | https://www.researchgate.net/publication/262113380_Quality_assessment_of_butter_cookies_applying_multispectral_imaging | 
-| | ML for auto quality detection | using image detection | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6512995/ | 
-| | ML for auto quality detection | using image detection | https://www.tandfonline.com/doi/full/10.1080/21693277.2020.1749180 | 
-| | ML for auto quality detection | using image detection | https://www.hindawi.com/journals/jfp/2014/376360/ | 
+| | Article | Quality Prediction and Yield Improvement in Process Manufacturing Based on Data Analytics | https://www.mdpi.com/2227-9717/8/9/1068/htm | 
+| | Article | ML for quality detection using Images | https://www.hindawi.com/journals/jfp/2014/376360/ | 
+| | Article | ML for auto quality detection using images | https://link.springer.com/article/10.1007/s40903-015-0018-5 |
+| | Article | Quality assessment of butter cookies applying multispectral imaging | https://www.researchgate.net/publication/262113380_Quality_assessment_of_butter_cookies_applying_multispectral_imaging | 
+| | Article | ML for auto quality detection using images | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6512995/ | 
+| | Article | ML for auto quality detection using images | https://www.tandfonline.com/doi/full/10.1080/21693277.2020.1749180 | 
+| | Article | ML for auto quality detection using images | https://www.hindawi.com/journals/jfp/2014/376360/ | 
 | | Article | Defective Product Classification System for Smart Factory Based on Deep Learning | https://www.mdpi.com/2079-9292/10/7/826/htm | 
-| | ML for quality image detection | Dataset | https://www.kaggle.com/c/severstal-steel-defect-detection/data |
-| | ML for quality image detection | Dataset | https://www.kaggle.com/c/1056lab-defect-detection/data |
-| | ML for quality image detection | Dataset | https://www.kaggle.com/afrniomelo/100-casting-quality-acc-with-human-ai-strategy |
+| | Dataset | ML for quality image detection |  https://www.kaggle.com/c/severstal-steel-defect-detection/data |
+| | Dataset | ML for quality image detection | https://www.kaggle.com/c/1056lab-defect-detection/data |
+| | Dataset | ML for quality image detection | https://www.kaggle.com/afrniomelo/100-casting-quality-acc-with-human-ai-strategy |
 
