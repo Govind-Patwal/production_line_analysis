@@ -16,13 +16,13 @@ Source(s)
 
 Image 1: Types of Data Analysis (Source - [Principa](www.principa.co.za))
 
-![4 types of data Analysis](resources/image1.png)
+![4 types of data Analysis](resources/images/image1.png)
 
 The ultimate aim would be automation (using real-time analysis and decision making)
 
 Image 2: What we would like to happen eventually (Source - [datajourney.akvo.org](https://datajourney.akvo.org/blog/the-four-types-of-data-analysis))
 
-![Steps to Decision Automation](resources/image2.png)
+![Steps to Decision Automation](resources/images/image2.png)
 
 
 ## POA
@@ -46,8 +46,10 @@ In this analysis we will focus on the quality of a output from a production line
 ### Step 1: Choosing a dataset for analysis
 Two datasets that I found useful for analysis are
 1) https://www.kaggle.com/alexkaggle95/production-quality-prediction-mae-6-954
-This Dataset has the final output paramater as an integer quality score ()
+- Build a model to determine the quality of products produced by a roasing machine, the qualities are in the range of 221 to 505
+
 2) https://www.kaggle.com/paresh2047/uci-semcom
+ - This dataset has the output as pass/fail that can be used as a sample dataset
 
 
 ## Other links that I found useful
