@@ -53,9 +53,9 @@ Two datasets that I found useful for analysis are
 
 | # | Category | Description | URL |
 | --- | --- | --- | --- |
-| 1 | Article | ML applications in production lines: A systematic literature review  | https://www.sciencedirect.com/science/article/pii/S036083522030485X  | 
-| 2 | Article | Bakery Process | https://www.winspc.com/wp-content/uploads/2018/06/Quality-on-the-Rise-in-Bakery-Manufacturing.pdf | 
-| | Whitepaper | Intel- Increase product yield and quality with ML | https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/increase-product-yield-and-quality-with-machine-learning-paper.pdf | 
+| 1 | Article | [ML applications in production lines: A systematic literature review] (https://www.sciencedirect.com/science/article/pii/S036083522030485X)  | 
+| 2 | Article | Quality on the rise in bakery manufacturing | https://www.winspc.com/wp-content/uploads/2018/06/Quality-on-the-Rise-in-Bakery-Manufacturing.pdf | 
+| | Whitepaper | Intel- Increase product yield and quality using ML | https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/increase-product-yield-and-quality-with-machine-learning-paper.pdf | 
 | | Presenting results | GitHub | https://github.com/liamculligan/bosch-production-line-performance | 
 | | Dataset | Focusing on machine maintenance | https://www.kaggle.com/inIT-OWL/versatileproductionsystem | 
 | | Dataset | Bosch on Kaggle | https://www.kaggle.com/c/bosch-production-line-performance/overview | 
