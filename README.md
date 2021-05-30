@@ -55,18 +55,18 @@ Two datasets that I found useful for analysis are
 | --- | --- | --- | 
 | 1 | Article | [ML applications in production lines: A systematic literature review](https://www.sciencedirect.com/science/article/pii/S036083522030485X)  |
 | 2 | Article | [Quality on the rise in bakery manufacturing](https://www.winspc.com/wp-content/uploads/2018/06/Quality-on-the-Rise-in-Bakery-Manufacturing.pdf) |
-| | Whitepaper - Intel | [Increase product yield and quality using ML](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/increase-product-yield-and-quality-with-machine-learning-paper.pdf) | 
-| | Presenting results | [Good GitHub Link](https://github.com/liamculligan/bosch-production-line-performance) | 
-| | Kaggle-Dataset | [Versatile Production System - Data for condition monitoring, predictive maintenance, machine learning](https://www.kaggle.com/inIT-OWL/versatileproductionsystem) | 
-| | Kaggle-Dataset | [Bosch Production Line Performance - Reduce manufacturing failures](https://www.kaggle.com/c/bosch-production-line-performance/overview) | 
-| | Article | [Quality Prediction and Yield Improvement in Process Manufacturing Based on Data Analytics](https://www.mdpi.com/2227-9717/8/9/1068/htm) | 
-| | Article | [A Robust Machine Vision Algorithm Development for Quality Parameters Extraction of Circular Biscuits and Cookies Digital Images](https://www.hindawi.com/journals/jfp/2014/376360/) | 
-| | Article | [Automatic Defect Classification on a Production Line](https://link.springer.com/article/10.1007/s40903-015-0018-5) |
-| | Article | [Quality assessment of butter cookies applying multispectral imaging](https://www.researchgate.net/publication/262113380_Quality_assessment_of_butter_cookies_applying_multispectral_imaging) | 
-| | Article | [Detection and Segmentation of Manufacturing Defects with Convolutional Neural Networks and Transfer Learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6512995/) | 
-| | Article | [Re-engineering process in a food factory: an overview of technologies and approaches for the design of pasta production processes](https://www.tandfonline.com/doi/full/10.1080/21693277.2020.1749180) | 
-| | Article | [Defective Product Classification System for Smart Factory Based on Deep Learning](https://www.mdpi.com/2079-9292/10/7/826/htm) | 
-| | Kaggle-Dataset | [Severstal: Steel Defect Detection - Can you detect and classify defects in steel?](https://www.kaggle.com/c/severstal-steel-defect-detection/data) |
-| | Kaggle-Dataset | [Defect Detection-The 14th 1056Lab Data Analytics Competition](https://www.kaggle.com/c/1056lab-defect-detection/data) |
-| | Kaggle-Workbook/Dataset | [100% Casting Quality Acc with Human+AI Strategy](https://www.kaggle.com/afrniomelo/100-casting-quality-acc-with-human-ai-strategy) |
+| 3 | Whitepaper - Intel | [Increase product yield and quality using ML](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/increase-product-yield-and-quality-with-machine-learning-paper.pdf) | 
+| 4 | Presenting results | [Good GitHub Link](https://github.com/liamculligan/bosch-production-line-performance) | 
+| 5 | Kaggle-Dataset | [Versatile Production System - Data for condition monitoring, predictive maintenance, machine learning](https://www.kaggle.com/inIT-OWL/versatileproductionsystem) | 
+| 6 | Kaggle-Dataset | [Bosch Production Line Performance - Reduce manufacturing failures](https://www.kaggle.com/c/bosch-production-line-performance/overview) | 
+| 7 | Article | [Quality Prediction and Yield Improvement in Process Manufacturing Based on Data Analytics](https://www.mdpi.com/2227-9717/8/9/1068/htm) | 
+| 8 | Article | [A Robust Machine Vision Algorithm Development for Quality Parameters Extraction of Circular Biscuits and Cookies Digital Images](https://www.hindawi.com/journals/jfp/2014/376360/) | 
+| 9 | Article | [Automatic Defect Classification on a Production Line](https://link.springer.com/article/10.1007/s40903-015-0018-5) |
+| 10 | Article | [Quality assessment of butter cookies applying multispectral imaging](https://www.researchgate.net/publication/262113380_Quality_assessment_of_butter_cookies_applying_multispectral_imaging) | 
+| 11 | Article | [Detection and Segmentation of Manufacturing Defects with Convolutional Neural Networks and Transfer Learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6512995/) | 
+| 12 | Article | [Re-engineering process in a food factory: an overview of technologies and approaches for the design of pasta production processes](https://www.tandfonline.com/doi/full/10.1080/21693277.2020.1749180) | 
+| 13 | Article | [Defective Product Classification System for Smart Factory Based on Deep Learning](https://www.mdpi.com/2079-9292/10/7/826/htm) | 
+| 14 | Kaggle-Dataset | [Severstal: Steel Defect Detection - Can you detect and classify defects in steel?](https://www.kaggle.com/c/severstal-steel-defect-detection/data) |
+| 15 | Kaggle-Dataset | [Defect Detection-The 14th 1056Lab Data Analytics Competition](https://www.kaggle.com/c/1056lab-defect-detection/data) |
+| 16 | Kaggle-Workbook/Dataset | [100% Casting Quality Acc with Human+AI Strategy](https://www.kaggle.com/afrniomelo/100-casting-quality-acc-with-human-ai-strategy) |
 
