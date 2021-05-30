@@ -5,65 +5,76 @@ A production line is a set of sequential operations established in a factory whe
 
 ## Use of Data Science  
 Data Science/Analysis can be used to perform many types of analysis in Production line processes
-1) Descriptive Analysis: What happened?
-2) Diagnostic Analysis: Why did this happen?
-3) Predictive Analysis: what is likely to happen in the future?
-4) Prescriptive Analysis: what to do to get the desired results?
-
-Source(s)
-- [Charito.com](https://chartio.com/learn/data-analytics/types-of-data-analysis/)
-- [CareerFoundry.com](https://careerfoundry.com/en/blog/data-analytics/different-types-of-data-analysis/)
 
 Image 1: Types of Data Analysis (Source - [Principa](www.principa.co.za))
 
 ![4 types of data Analysis](resources/images/image1.png)
 
-The ultimate aim would be automation (using real-time analysis and decision making)
+***Ultimate aim would be automating the process (using real-time analysis and decision making)***
 
-Image 2: What we would like to happen eventually (Source - [datajourney.akvo.org](https://datajourney.akvo.org/blog/the-four-types-of-data-analysis))
+Image 2: What we would like to eventually happen (Source - [datajourney.akvo.org](https://datajourney.akvo.org/blog/the-four-types-of-data-analysis))
 
 ![Steps to Decision Automation](resources/images/image2.png)
 
 ---
-## POA
+## Project: Plan of Action
 
 Dry Run 
 1. Choose a test dataset closely resembling real data
-2. Do the first 3 types of analysis
-3. Try to prescribe next steps
+2. Do the first 2 types of analysis (Descriptive/Diagnostic)
+3. Work on the next 2 types of analysis (Predective and Prescriptive)
 4. Present the analysis
 
 Actual Run
 1. Understand the What - What is happening now, what is required from the analysis 
-2. Understand the Why from the Customers and quantify the Why in terms of $$$
-3. Work on the How (all 4 analysis) and show how it ties with the What, using why to help them make the emotional decision.
+2. Understand the Why and quantify the Why in terms of $$$
+3. Work on the How (all 4 analysis) and show how it ties with the What, using Why to help them make the emotional decision.
 4. Focus on Good Presentation and POC
-5. Can also suggest ML to automatically detect undesired quality output using image classification/detection
+5. For future implementation, suggest ML to automatically detect undesired quality output using image classification/detection
 
 ---
 
-## Purpose of this Analysis
-In this analysis we will focus on the quality of a output from a production line. We will run analysis 1, 2, and 3 and will try to perform Analysis 4 so that the quality can be increased.
+### Choosing a dataset for analysis
+Two relevant datasets that I found
+#### DATASET 1: [Production Quality Prediction](https://www.kaggle.com/alexkaggle95/production-quality-prediction-mae-6-954)
 
-### Step 1: Choosing a dataset for analysis
-Two datasets that I found useful for analysis are
-1) https://www.kaggle.com/alexkaggle95/production-quality-prediction-mae-6-954
-- Build a model to determine the quality of products produced by a roasing machine, the qualities are in the range of 221 to 505
-- We can convert them to pass/fail (as a percentage of total results)
+    +ves
+    - Data related to Food production (Coffee roasting)
+    - Use of temperature and moisture measurements, raw materials pass through the kiln in an hour.
 
-Image 3: Table_X
+    Challanges
+    - The Target/Outcome (qualities) values are in the range of 221 to 505, and not pass/fail.
+    - The rows of Target variables (29,184) is less than the rows of input rows (2,103,841)
 
-![Table_X](resources/images/Production_df_X.png)
+    Overcoming Challanges
+    - We can convert output values to pass/fail (as a percentage of total results, for example top 80 % as pass, others as fail)
+    - We can find a way to have the number of map the input variables and output variables so that the total number of rows match
+[Extracting data using pandas](https://github.com/Govind-Patwal/production_line_analysis/blob/main/code/Production_Quality_Prediction.ipynb)
 
-Image 4: Table_Y
+Image 3: df_X
+![df_X](resources/images/Production_df_X.png)
 
-![Table_X](resources/images/Production_df_Y.png)
+Image 4: df_Y
 
-2) https://www.kaggle.com/paresh2047/uci-semcom
- - This dataset has the output as pass/fail that can be used as a sample dataset
- 
+![df_Y](resources/images/Production_df_Y.png)
+
+
+#### DATASET 2: [UCI SECOM Dataset](https://www.kaggle.com/paresh2047/uci-semcom)
+    +ves
+    - Data has target values as Pass/Fail
+    - Many variables, number of columns = 592 
+    - The file has both the input and output values
+
+    Challanges
+    - The Columns are only numbered, and not named, so we do not exactly know what does a column mean 
+
+    Overcoming Challanges
+    - In real world, the variables can always be named in the file (or mapped with the numbers later)
+
+[Extracting data using pandas](https://github.com/Govind-Patwal/production_line_analysis/blob/main/code/UCI_SECOM_Dataset.ipynb)
+
 Image 5: UCI dataset
-![Table_X](resources/images/UCI.png)
+![UCI data](resources/images/UCI.png)
 
 ---
 
@@ -83,7 +94,7 @@ Image 5: UCI dataset
 | 9 | Article | [Automatic Defect Classification on a Production Line](https://link.springer.com/article/10.1007/s40903-015-0018-5) |
 | 10 | Article | [Quality assessment of butter cookies applying multispectral imaging](https://www.researchgate.net/publication/262113380_Quality_assessment_of_butter_cookies_applying_multispectral_imaging) | 
 | 11 | Article | [Detection and Segmentation of Manufacturing Defects with Convolutional Neural Networks and Transfer Learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6512995/) | 
-| 12 | Article | [Re-engineering process in a food factory: an overview of technologies and approaches for the design of pasta production processes](https://www.tandfonline.com/doi/full/10.1080/21693277.2020.1749180) | 
+| 12 | Article | [Re-engineering process in a food factory: an overview of technologies and approaches for the design of pasta production processes](https://www.tandfonline.com/doi/full/10.1080/21693277.2020.1749180) | )
 | 13 | Article | [Defective Product Classification System for Smart Factory Based on Deep Learning](https://www.mdpi.com/2079-9292/10/7/826/htm) | 
 | 14 | Kaggle-Dataset | [Severstal: Steel Defect Detection - Can you detect and classify defects in steel?](https://www.kaggle.com/c/severstal-steel-defect-detection/data) |
 | 15 | Kaggle-Dataset | [Defect Detection-The 14th 1056Lab Data Analytics Competition](https://www.kaggle.com/c/1056lab-defect-detection/data) |
