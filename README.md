@@ -24,7 +24,7 @@ Image 2: What we would like to happen eventually (Source - [datajourney.akvo.org
 
 ![Steps to Decision Automation](resources/images/image2.png)
 
-
+---
 ## POA
 
 Dry Run 
@@ -40,6 +40,8 @@ Actual Run
 4. Focus on Good Presentation and POC
 5. Can also suggest ML to automatically detect undesired quality output using image classification/detection
 
+---
+
 ## Purpose of this Analysis
 In this analysis we will focus on the quality of a output from a production line. We will run analysis 1, 2, and 3 and will try to perform Analysis 4 so that the quality can be increased.
 
@@ -47,10 +49,23 @@ In this analysis we will focus on the quality of a output from a production line
 Two datasets that I found useful for analysis are
 1) https://www.kaggle.com/alexkaggle95/production-quality-prediction-mae-6-954
 - Build a model to determine the quality of products produced by a roasing machine, the qualities are in the range of 221 to 505
+- We can convert them to pass/fail (as a percentage of total results)
+
+Image 3: Table_X
+
+![Table_X](resources/images/Production_df_X.png)
+
+Image 4: Table_Y
+
+![Table_X](resources/images/Production_df_Y.png)
 
 2) https://www.kaggle.com/paresh2047/uci-semcom
  - This dataset has the output as pass/fail that can be used as a sample dataset
+ 
+Image 5: UCI dataset
+![Table_X](resources/images/UCI.png)
 
+---
 
 ## Other links that I found useful
 
