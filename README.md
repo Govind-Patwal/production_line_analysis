@@ -81,7 +81,7 @@ Image 5: UCI dataset
 ## Other links that I found useful
 
 | # | Category | Description |
-|  |  |  | 
+| --- | ---  | --- | 
 | 1 | Article | [ML applications in production lines: A systematic literature review](https://www.sciencedirect.com/science/article/pii/S036083522030485X)  |
 | 2 | Article | [Quality on the rise in bakery manufacturing](https://www.winspc.com/wp-content/uploads/2018/06/Quality-on-the-Rise-in-Bakery-Manufacturing.pdf) |
 | 3 | Whitepaper - Intel | [Increase product yield and quality using ML](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/increase-product-yield-and-quality-with-machine-learning-paper.pdf) | 
