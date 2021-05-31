@@ -22,14 +22,14 @@ Image 2: What we would like to eventually happen (Source - [datajourney.akvo.org
 Dry Run 
 1. Choose a test dataset closely resembling real data
 2. Do the first 2 types of analysis (Descriptive/Diagnostic)
-3. Work on the next 2 types of analysis (Predective and Prescriptive)
-4. Present the analysis
+3. Work on the next 2 types of analysis (Predictive and Prescriptive)
+4. Present the analysis results
 
 Actual Run
-1. Understand the What - What is happening now, what is required from the analysis 
+1. Understand the What in detail - What is happening now, what is required from the analysis 
 2. Understand the Why and quantify the Why in terms of $$$
-3. Work on the How (all 4 analysis) and show how it ties with the What, using Why to help them make the emotional decision.
-4. Focus on Good Presentation and POC
+3. PERFORM THE ANALYSIS ...if more variables can add to the analysis outcome, ask for them  
+4. Focus on Good Presentation and POC ...show how the results of our analysis tie with the What, using Why to help make the emotional decision.
 5. For future implementation, suggest ML to automatically detect undesired quality output using image classification/detection
 
 ---
