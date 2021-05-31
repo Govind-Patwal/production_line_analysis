@@ -78,7 +78,7 @@ Image 5: UCI dataset
 
 ---
 
-## Other links that I found useful
+## Other links that can be used for future analysis/implementation
 
 | # | Category | Description |
 | :--- | :---  | :--- | 
